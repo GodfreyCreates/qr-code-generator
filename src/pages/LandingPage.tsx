@@ -32,7 +32,7 @@ const LandingPage: React.FC = () => {
                 Get Started for Free
               </a>
               <a 
-                href="/auth/login" 
+                href="/auth" 
                 className="btn-secondary text-lg px-8 py-3"
               >
                 Login
